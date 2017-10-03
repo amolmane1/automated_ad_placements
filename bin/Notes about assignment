@@ -1,0 +1,10 @@
+Brand engagement never has CPA
+Video campaigns == 0 never have CPV
+
+Methodology:
+- changed formats of numbers, column names to be compatible with data wrangling
+
+Assumptions:
+- time has no effect on cost. so I've not included it in the network
+- neither does budget
+
