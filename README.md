@@ -8,3 +8,4 @@ Things to note:
 
 Assumptions:
 - Time and budget have no effect on CPM
+- When trying to get the optimal marketing mix for an ad, the campaign ID, Marketing Goal, and whether or not the ad is a video/non video on can't be changed. The only things that can be optimized are the channel ID, customer segment ID, and location.
